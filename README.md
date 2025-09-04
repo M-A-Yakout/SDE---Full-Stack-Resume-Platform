@@ -24,6 +24,11 @@ This repository contains server-side resume storage (Prisma + MySQL), NextAuth a
 - next-auth (authentication)
 - OpenAI API (optional, for AI suggestions)
 
+## Flow
+
+<img width="2034" height="1039" alt="image" src="https://github.com/user-attachments/assets/b45629c9-53c9-42a7-8992-6d85f66301b0" />
+
+
 ## Quick setup
 
 1. Install dependencies
