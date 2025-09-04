@@ -1,4 +1,4 @@
-# Luxury Resume Platform
+# Resume Platform
 
 A modern, AI-powered resume creation and management platform built with Next.js, React, and TypeScript.
 
@@ -124,3 +124,26 @@ npm run dev
 ## License
 
 This project includes code and scaffolding for learning and prototyping. Check individual package licenses for bundled dependencies.
+
+
+## Screenshot
+
+<img width="2559" height="1387" alt="image" src="https://github.com/user-attachments/assets/bd041371-b937-424f-aa91-b374c1c7c783" />
+
+<img width="2559" height="1371" alt="image" src="https://github.com/user-attachments/assets/c9cac341-1be2-4561-b0ef-6e96a58da60c" />
+
+<img width="2555" height="1378" alt="image" src="https://github.com/user-attachments/assets/2a6bc691-593e-492b-808e-271347277811" />
+
+
+<img width="2559" height="1377" alt="image" src="https://github.com/user-attachments/assets/60353878-2551-469b-a7c3-a63f65d329b3" />
+
+<img width="2549" height="1363" alt="image" src="https://github.com/user-attachments/assets/f282d37f-59fc-452e-8c1b-d25415df6aff" />
+
+<img width="2559" height="1378" alt="image" src="https://github.com/user-attachments/assets/40de8a3a-0a74-435e-bf6f-3c0b75b02521" />
+
+
+
+
+
+
+
